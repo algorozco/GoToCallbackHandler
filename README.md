@@ -14,10 +14,10 @@ The callback url must be a secure, public url. in the case of testing locallly, 
 once it's up and running, you will simply need to use the public url given by the tool and use it as the callback url, it will "forward" the traffic to your local host and you will be able to launch what's behind it.
 
 ###### Resources
-**Using hellosign api callbacks**: https://www.hellosign.com/blog/using-hellosign-api-callbacks
-**Documentation**: https://app.hellosign.com/api/eventsandcallbackswalkthrough and https://app.hellosign.com/api/reference#callbacks
-**API dashboard (to see sent callbacks)**: https://app.hellosign.com/apidashboard
-**Testing locally**: https://faq.hellosign.com/hc/en-us/articles/217048987-tools-for-testing-the-api-and-callbacks-locally
+- **Using hellosign api callbacks**: https://www.hellosign.com/blog/using-hellosign-api-callbacks
+- **Documentation**: https://app.hellosign.com/api/eventsandcallbackswalkthrough and https://app.hellosign.com/api/reference#callbacks
+- **API dashboard (to see sent callbacks)**: https://app.hellosign.com/apidashboard
+- **Testing locally**: https://faq.hellosign.com/hc/en-us/articles/217048987-tools-for-testing-the-api-and-callbacks-locally
 
 ###### Questions?
 Hit me up at algorozco.ti@gmail.com!

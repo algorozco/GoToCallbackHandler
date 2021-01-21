@@ -15,8 +15,11 @@ Once it's up and running, you will simply need to use the public URL given by th
 
 ###### Resources
 **Using HelloSign API Callbacks**: https://www.hellosign.com/blog/using-hellosign-api-callbacks
+
 **Documentation**: https://app.hellosign.com/api/eventsAndCallbacksWalkthrough and https://app.hellosign.com/api/reference#Callbacks
+
 **API Dashboard (so see sent callbacks)**: https://app.hellosign.com/apidashboard
+
 **Testing Locally**: https://faq.hellosign.com/hc/en-us/articles/217048987-Tools-for-testing-the-API-and-callbacks-locally
 
 ###### Questions/Comments?
